@@ -23,7 +23,14 @@ A QTableView implements a table view that displays items from a model. This clas
 Enough talking and let's hop in to our application and see what it consists of  . Our application contains a menubar at the top that is composed of File , options , and Help . Each one of these has its own components as shown bellow :
 
 
+![1](https://user-images.githubusercontent.com/98289987/150703426-a729b9f8-5be2-411d-99bc-6f2f1f8f5234.jpeg)
+![2](https://user-images.githubusercontent.com/98289987/150703429-ebd148a1-662e-46f3-8e77-648c3947e689.jpeg)
+![3](https://user-images.githubusercontent.com/98289987/150703430-01c0e6db-dd97-4351-b658-09df76439810.jpeg)
+
+
 The application contains also a ToolBar that is composed of shortcuts of some functionalities : 
+
+![4](https://user-images.githubusercontent.com/98289987/150703434-c1f27bb8-1759-4fcb-9499-457ef9b50834.PNG)
 
 
 The application also contains a main window that shows us infinformation about  on today ,pending and finished tasks. 
@@ -172,6 +179,8 @@ void todoApp::on_actionFinished_Tasks_triggered()
 }
 
 ```
+
+![5](https://user-images.githubusercontent.com/98289987/150703442-9ba015f7-e24e-47b8-ac0f-662c3a59a2ab.PNG)
 
 *<h3>Removing task</h3>* 
 
