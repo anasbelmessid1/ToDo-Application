@@ -350,3 +350,6 @@ void todoApp::showDB()
 
 }
 ```
+*<h2>Conclusion</h2>*
+
+In this practical course ,we worked on the MVC model and implementing it to create todo application because of its flexibility and ease of use compared to the ItemBased model.
