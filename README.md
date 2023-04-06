@@ -1,4 +1,4 @@
-# Todo-App
+# ToDo-Application 
 
 *<h2>Table of contents</h2>*
 
